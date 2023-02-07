@@ -1,0 +1,4 @@
+[database]
+Username = "root"
+Password = "Kemong123"
+DbName = "testdb"
